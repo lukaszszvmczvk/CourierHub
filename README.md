@@ -18,7 +18,3 @@ The application is built using:
 - **API**: REST API
 - **Testing**: xUnit, FakeItEasy
 - **Validation**: FluentValidation
-
----
-
-This project demonstrates integration between a modern front-end and a secure, scalable back-end using best practices in API development.
