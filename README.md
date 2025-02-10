@@ -1,4 +1,4 @@
-# 📦 CourierHub
+# CourierHub
 
 CourierHub is a **university project** that showcases a fully functional web application for managing courier and package delivery services. 
 The project demonstrates proficiency in the listed technologies and tools.
@@ -11,7 +11,7 @@ The application is built using:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Backend**: .NET 7, Entity Framework Core, SQL Server
 - **Frontend**: React.js
 - **Authentication**: Auth0
